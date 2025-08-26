@@ -1,4 +1,6 @@
 # invisible--cloak
+
+✨🪄🔮🧙‍♂️🧙‍♀️🌌🧵🌟🪬🌠
 HARRY POTTER INVISIBILITY CLOAK::
 This project is inspired by Harry Potter’s legendary invisibility cloak. Using Python and OpenCV, it creates a visual illusion where the person wearing a specific-colored cloth (usually red/blue/green) appears to vanish, blending seamlessly with the background.
 
